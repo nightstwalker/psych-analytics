@@ -1,3 +1,0 @@
-GitHub connector write test
-
-Created by ChatGPT on 2026-10-06 to verify repository file creation capability.
